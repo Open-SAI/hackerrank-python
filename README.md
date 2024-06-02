@@ -34,7 +34,7 @@ This range is used in a map function that save the generated serie.
 
 To every number from the range, we apply a recursive lambda function, named *serie*, in every iteration we do the math operation (10 elevated to range-iterated - 1), and add the call to the next recursive execution for the next range-iterated - 1, until to get 0. 
 
-The iteration of the pow() + the serie(x-1) generate an 1, 11, 111, 1111, ..., serie that if we multiply by self we obtain the stepped serie of numbers (number theory).
+The iteration of the pow() + the serie(x-1) generate an 1, 11, 111, 1111, ..., serie that if we multiply by self at the printing time, we obtain the stepped serie of numbers (number theory).
 
 
 
