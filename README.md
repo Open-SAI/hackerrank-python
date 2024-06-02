@@ -3,6 +3,7 @@ Python Hackerrank training exercises
 
 ## palindromic_triangle.py
 **Objetive:** This exercise must be print a palindromic number triangle for a entered integer number. 
+
 **Input/Output example:**
 
 If we type n = 7:
